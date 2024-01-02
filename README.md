@@ -24,8 +24,6 @@ An off-canvas form component for adding/editing users. It is used for both addin
 Sample Data
 Sample user data:
 
-json
-Copy code
 {
   "name": "Audra.Turner",
   "username": "Marlowe",
