@@ -1,0 +1,19 @@
+.nav-header {
+    background-color: rgb(78, 176, 241);
+}
+
+.nav-items{
+    font-size: larger;
+    font-family:Arial, Helvetica, sans-serif ;
+    padding-left: 15px;
+}
+
+.nav-items:hover{
+    font-weight: 500;
+    background-color: rgb(196, 222, 238);
+    border-radius: 3px;
+}
+
+.nav-itemsIcon{
+    margin-right: 15px;
+}

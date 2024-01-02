@@ -1,0 +1,19 @@
+.usernav{
+  background-color: rgb(236, 235, 235);
+}
+
+.usernav-header{
+    font-size: 24px;
+}
+
+.adduser-btn{
+    background-color:rgb(78, 176, 241);
+    border-radius: 3px;
+    border-color: none;
+    width: 150px;
+    color: aliceblue;
+}
+
+.adduser-btn:hover{
+    background-color:rgb(62, 161, 226);
+}
